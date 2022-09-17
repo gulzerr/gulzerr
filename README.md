@@ -3,11 +3,11 @@
 <h1 align="center">Hello, This is Bulbul Gulzer Deb 🧑‍💻 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh who is also a Blockchain Enthusiast. Currently Working as a backend engineer and learning web3 + solidity.</h3>
-<center><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="centered image" width="398"> </center>
+
+<img align='right' src='https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif' width='40%'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulzerr&label=Profile%20views&color=0e75b6&style=flat" alt="gulzerr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulzerr" alt="gulzerr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/duranta" target="blank"><img src="https://img.shields.io/twitter/follow/duranta?logo=twitter&style=for-the-badge" alt="duranta" /></a> </p>
 
@@ -26,6 +26,8 @@
 - 📫 How to reach me **gulzer.deb@gmail.com**
 
 - ✨ Fun fact : I am an adventure freak and I love music 🎶
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulzerr" alt="gulzerr" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
