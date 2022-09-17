@@ -65,6 +65,4 @@
 
 <p>&nbsp;<img align="center" height ="190" width="500" src="https://github-readme-stats.vercel.app/api?username=gulzerr&show_icons=true&locale=en" alt="gulzerr" /></p>
 
-<br />
-
 <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulzerr&" alt="gulzerr" /></center>
