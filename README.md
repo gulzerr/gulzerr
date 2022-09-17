@@ -61,7 +61,7 @@
 
 <p><img align="left" height ="190" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulzerr&show_icons=true&locale=en&layout=compact" alt="gulzerr" /></p>
 
-<p>&nbsp;<img align="right" height ="190" width="500" src="https://github-readme-stats.vercel.app/api?username=gulzerr&show_icons=true&locale=en" alt="gulzerr" /></p>
+<p>&nbsp;<img align="center" height ="190" width="500" src="https://github-readme-stats.vercel.app/api?username=gulzerr&show_icons=true&locale=en" alt="gulzerr" /></p>
 
 <br />
 
