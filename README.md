@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, This is Bulbul Gulzer Deb 🧑‍💻 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh who is also a Blockchain Enthusiast. Currently Working as a backend engineer and learning web3 + solidity.</h3>
+<h3 align="center">A passionate Software Engineer currently living in  Ilmenau, Germany who is also a Blockchain and Software Architecture Enthusiast. Currently Working as a backend engineer and pursuing masters degree at TU Ilmenau.</h3>
 
 <img align='right' src='https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif' width='40%'>
 
