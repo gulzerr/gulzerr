@@ -17,9 +17,7 @@
 
 - 💬 Ask me about **NodeJs, Typescript, Python, Golang**
 
-- 🏢 My work github profile <a href="https://github.com/deb-shopf">ShopUp</a>
-
-- 💻 My personal github profile <a href="https://github.com/gulzerr">Gulzer</a>
+- 🏢 My work github profile as this profile doesn't have enough commits <a href="https://github.com/deb-shopf">ShopUp</a>
 
 - 🌐 All of my projects are available at ⭐<a href="https://gulzerr.github.io/cse391/?fbclid=IwAR3oLpHSTCAILOOna-rTUj-AekiQ1CJhmcvknjJnEqNwiX5xbPlZ6h6xyeE">My Website</a>⭐
 
