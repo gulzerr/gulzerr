@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working at [RedX Logistics(ShopUp)](https://redx.com.bd/)
 
-- 🌱 I’m currently learning **Blockchain, Web3, Solidity**
+- 🌱 I’m currently into **Machine Learning and Software Architecture**
 
-- 💬 Ask me about **NodeJs, Typescript**
+- 💬 Ask me about **NodeJs, Typescript, Python, Golang**
 
 - 🏢 My work github profile <a href="https://github.com/deb-shopf">ShopUp</a>
 
