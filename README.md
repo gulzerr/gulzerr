@@ -11,15 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/duranta" target="blank"><img src="https://img.shields.io/twitter/follow/duranta?logo=twitter&style=for-the-badge" alt="duranta" /></a> </p>
 
-- 🔭 I’m currently working at [RedX Logistics(ShopUp)](https://redx.com.bd/)
+- 🔭 I’m currently working at [Wallround](https://www.wallround.de/)
 
 - 🌱 I’m currently into **Machine Learning and Software Architecture**
 
 - 💬 Ask me about **NodeJs, Typescript, Python, Golang**
   
 - 📫 How to reach me **gulzer.deb@gmail.com**
-
-- 🏢 Please, check my work github profile as this profile doesn't have enough commits <a href="https://github.com/deb-shopf">ShopUp</a>
 
 - 🌐 All of my projects are available at ⭐<a href="https://gulzerr.github.io/cse391/?fbclid=IwAR3oLpHSTCAILOOna-rTUj-AekiQ1CJhmcvknjJnEqNwiX5xbPlZ6h6xyeE">My Website</a>⭐
 
