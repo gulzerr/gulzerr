@@ -19,8 +19,6 @@
   
 - 📫 How to reach me **gulzer.deb@gmail.com**
 
-- 🌐 All of my projects are available at ⭐<a href="https://gulzerr.github.io/cse391/?fbclid=IwAR3oLpHSTCAILOOna-rTUj-AekiQ1CJhmcvknjJnEqNwiX5xbPlZ6h6xyeE">My Website</a>⭐
-
 - ✨ Fun fact : I am an adventure freak and I love music 🎶
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulzerr" alt="gulzerr" /></a> </p>
